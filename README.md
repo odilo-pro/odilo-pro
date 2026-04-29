@@ -1,12 +1,26 @@
-- 👋 Hi, I’m @odilo-pro
-- 👀 I’m interested in using github
-- 🌱 I’m currently learning software development
-- 💞️ I’m looking to collaborate on some projects
-- 📫 How to reach me my phone number is +250796312966
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi, I'm Odilo Happiness
 
-<!---
-odilo-pro/odilo-pro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+A fullstack web developer based in Kigali, Rwanda.  
+I build web applications using PHP, Node.js, Vue.js and more.
+
+## Skills
+
+**Backend:** PHP, Laravel, Node.js, Express, REST APIs, JWT  
+**Frontend:** HTML, CSS, JavaScript, Vue.js  
+**Database:** MySQL  
+**Tools:** Git, GitHub, Postman, Figma, VS Code  
+**Mobile:** Flutter (learning)
+
+## Projects
+
+| Project | Description | Tech Stack |
+|---|---|---|
+| Student Manager | Fullstack CRUD app | Vue.js, Node.js, MySQL |
+| Countries Explorer | Public API consumer | Vue.js, Axios |
+| Quiz Game | Interactive quiz with auth | Vue.js, Node.js, JWT |
+| Library System | Backend API design | Node.js, Express, Swagger |
+
+## Contact
+
+Email: odilohappiness6@gmail.com  
+Contact: +250796312966
