@@ -22,6 +22,11 @@ I build web applications using PHP, Node.js, Vue.js and more.
 
 ## Contact
 
-Email: odilohappiness6@gmail.com  
+Email: odilohappiness6@gmail.com
+
 Contact: +250796312966
+
 LinkedIn: https://www.linkedin.com/in/odilo-happiness
+
+Download my CV here:  
+[Download CV](./odilo-happiness-cv.pdf)
