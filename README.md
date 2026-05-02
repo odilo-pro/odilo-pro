@@ -13,12 +13,12 @@ I build web applications using PHP, Node.js, Vue.js and more.
 
 ## Projects
 
-| Project | Description | Tech Stack |
-|---|---|---|
-| Student Manager | Fullstack CRUD app | Vue.js, Node.js, MySQL |
-| Countries Explorer | Public API consumer | Vue.js, Axios |
-| Quiz Game | Interactive quiz with auth | Vue.js, Node.js, JWT |
-| Library System | Backend API design | Node.js, Express, Swagger |
+| Project | Description | Tech Stack | Live Demo |
+|---------|-------------|------------|------------|
+| Student Manager | Fullstack CRUD app | Vue.js, Node.js, MySQL | [Live Demo](https://internship-projects-kappa.vercel.app/) |
+| Countries Explorer | Public API consumer | Vue.js, Axios | — |
+| Quiz Game | Interactive quiz with auth | Vue.js, Node.js, JWT | — |
+| Library System | Backend API design | Node.js, Express, Swagger | — |
 
 ## Contact
 
